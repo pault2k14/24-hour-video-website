@@ -57,6 +57,17 @@
     margin-bottom: 36px;
 }
 
+#loading-indicator {
+    margin: 90px auto;
+    display: block;
+}
+.transcoding-indicator object {
+    margin-top: 30px;
+}
+body {
+    background: #1e1e1e;
+}
+
 
 
 
